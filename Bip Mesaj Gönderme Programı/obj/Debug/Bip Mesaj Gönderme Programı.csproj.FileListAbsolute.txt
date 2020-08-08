@@ -1,0 +1,10 @@
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\bin\Debug\Bip Mesaj Gönderme Programı.exe.config
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\bin\Debug\Bip Mesaj Gönderme Programı.exe
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\bin\Debug\Bip Mesaj Gönderme Programı.pdb
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\obj\Debug\Bip Mesaj Gönderme Programı.csprojAssemblyReference.cache
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\obj\Debug\Bip_Mesaj_Gönderme_Programı.Form1.resources
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\obj\Debug\Bip_Mesaj_Gönderme_Programı.Properties.Resources.resources
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\obj\Debug\Bip Mesaj Gönderme Programı.csproj.GenerateResource.cache
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\obj\Debug\Bip Mesaj Gönderme Programı.csproj.CoreCompileInputs.cache
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\obj\Debug\Bip Mesaj Gönderme Programı.exe
+C:\Users\HakanBey\source\repos\Bip Mesaj Gönderme Programı\Bip Mesaj Gönderme Programı\obj\Debug\Bip Mesaj Gönderme Programı.pdb
